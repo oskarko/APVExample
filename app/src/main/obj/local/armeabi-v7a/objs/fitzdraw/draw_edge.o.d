@@ -1,0 +1,9 @@
+obj/local/armeabi-v7a/objs/fitzdraw/draw_edge.o: \
+ jni/mupdf/draw/draw_edge.c jni/mupdf/draw/../fitz/fitz-internal.h \
+ jni/mupdf/draw/../fitz/fitz.h jni/mupdf/draw/../fitz/memento.h
+
+jni/mupdf/draw/../fitz/fitz-internal.h:
+
+jni/mupdf/draw/../fitz/fitz.h:
+
+jni/mupdf/draw/../fitz/memento.h:
